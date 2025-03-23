@@ -5,8 +5,8 @@
 
 выбор игры осуществляется с помощью флага --game при запуске. Например:
 ---
-python game.py --game lcm для игры в НОК.
-python game.py --game progression для игры с геометрической прогрессией.
+python games.py --game lcm для игры в НОК.
+python games.py --game progression для игры с геометрической прогрессией.
 ---
 линтер питон: https://github.com/PyCQA/flake8
 
