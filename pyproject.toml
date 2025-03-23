@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Brain games. A set of five simple console games."
-authors = ["shizomanya <mistic_aa@inbox.ru>"]
+description = "laba1"
+authors = ["RichelieuGVG1 <uryanovvasya@gmail.com>"]
 readme = "README.md"
-packages = [{include = "brain_games"}]
-repository = "https://github.com/shizomanya/python-project-49.git"
+packages = [{include = "laba1"}]
+repository = "https://github.com/RichelieuGVG1/laba1_methology.git"
 classifiers = [
     "Topic :: Software Development :: Build Tools",
     "Topic :: Software Development :: Libraries :: Python Modules"
